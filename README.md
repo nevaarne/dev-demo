@@ -3,4 +3,4 @@
 - `hooks` - Custom hooks to handle allocation and claims data
 - `packages` - Custom packages to handle auth, wallets and user data
 
-![Thumbnail](thumbnail.png)
+![Preview](preview.png)
